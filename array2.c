@@ -5,7 +5,7 @@ int main()
 {
 
 	// creating array of character
-	char arr[6] = { 'G', 'e', 'e', 'k', 's', '\0' };
+	char arr[6] = { 'H', 'e', 'l', 'l', 'o', '\0' };
 
 	// printing string
 	int i = 0;
